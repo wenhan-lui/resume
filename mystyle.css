@@ -1,0 +1,54 @@
+.background {
+  background-color: #fdf6f0;
+}
+
+.nav-link {
+  background-color: #f8e2cf !important;
+  color: black;
+  margin: 5px;
+}
+
+.nav-link.active {
+  background-color: #f5c6aa !important;
+  color: black !important;
+}
+
+.about-me-page {
+  text-align: center;
+}
+
+.formal_photo {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.full-picture-background {
+  background-image: url("./images/sunset-background-pastel-sky.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.cover-page {
+  height: 100vh;
+}
+
+.alternate-bg {
+  background-color: #f8e2cf;
+}
+
+.skills-icon {
+  background-color: #f5c6aa !important;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.border-bottom {
+  border-color: black !important;
+}
+
+.experience-date {
+  justify-content: end !important;
+}
